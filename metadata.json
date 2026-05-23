@@ -1,0 +1,6 @@
+{
+  "name": "RF & LoRa Dashboard",
+  "description": "An interactive digital signal companion app for 433MHz RF ASK/OOK capture and SX1276/78 LoRa transceivers, including real-time monitoring, DB logs, and detailed hardware setup guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
